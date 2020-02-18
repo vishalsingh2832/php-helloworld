@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>PHP in Production</title>
+  <title>PHP in Monday Production</title>
  </head>
  <body>
- <?php echo '<p>Hello World and hello you</p>'; ?> 
+ <?php echo '<p>Hello World</p>'; ?> 
  </body>
 </html>

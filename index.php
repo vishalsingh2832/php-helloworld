@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>PHP in Tuesday Production</title>
+  <title>PHP in Wednesday Production</title>
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; ?> 

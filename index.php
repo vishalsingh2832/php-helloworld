@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>PHP in Wednesday Production</title>
+  <title>PHP in Pattaya</title>
  </head>
  <body>
- <?php echo '<p>Hello World This is Tuesday</p>'; ?> 
+ <?php echo '<p>Hello Pattaya</p>'; ?> 
  </body>
 </html>

@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>PHP in Pattaya</title>
+  <title>PHP in March Mumbai</title>
  </head>
  <body>
- <?php echo '<p>Hello Pattaya</p>'; ?> 
+ <?php echo '<p>Hello Mumbai</p>'; ?> 
  </body>
 </html>
